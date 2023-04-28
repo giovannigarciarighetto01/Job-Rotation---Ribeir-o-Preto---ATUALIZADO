@@ -1,0 +1,23 @@
+Para resolver este problema, vamos calcular o tempo que o carro e o caminhão levarão para se encontrarem na rodovia. Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km e que os dois veículos estão se aproximando um do outro. Portanto, podemos considerar que a distância que separa os veículos no momento em que se cruzarem é de 100 km. 
+
+Vamos começar calculando o tempo que o caminhão levará para percorrer os 100 km entre Franca e o ponto de encontro. Como ele está se movendo a uma velocidade constante de 80 km/h, podemos usar a fórmula:
+
+tempo = distância / velocidade
+
+tempo = 100 km / 80 km/h
+
+tempo = 1,25 horas
+
+Sabemos que o caminhão levará 5 minutos extras para passar em cada pedágio, enquanto o carro tem o benefício da tag de pedágio. Isso significa que o caminhão levará mais tempo para percorrer a distância entre as cidades do que o carro. Como não sabemos quantos pedágios existem entre as cidades, não podemos calcular o tempo exato que o caminhão levará. Portanto, vamos considerar que a diferença de tempo entre os veículos será de 10 minutos, ou seja, 1/6 de hora.
+
+Agora vamos calcular o tempo que o carro levará para percorrer a distância de 100 km entre Ribeirão Preto e o ponto de encontro. Como ele está se movendo a uma velocidade constante de 110 km/h, podemos usar a mesma fórmula:
+
+tempo = distância / velocidade
+
+tempo = 100 km / 110 km/h
+
+tempo = 0,91 horas
+
+Sabemos que o caminhão levará mais tempo do que o carro para percorrer a mesma distância. Portanto, quando os dois veículos se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, pois ele percorreu uma distância menor nesse período de tempo.
+
+Em resumo, o carro levará 0,91 horas para percorrer os 100 km entre Ribeirão Preto e o ponto de encontro, enquanto o caminhão levará 1,25 horas. Como a diferença de tempo entre os veículos é de 1/6 de hora, ou 10 minutos, podemos concluir que o carro estará mais próximo de Ribeirão Preto quando os dois veículos se cruzarem na rodovia.

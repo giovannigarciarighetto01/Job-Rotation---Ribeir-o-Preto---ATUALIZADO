@@ -1,0 +1,3 @@
+O valor da variável SOMA será 91.
+
+O trecho de código utiliza um loop enquanto (while) para somar os valores de 1 a 13 e armazená-los na variável SOMA. Inicialmente, a variável K é igual a 0 e a variável SOMA é igual a 0. O loop é executado enquanto K for menor que INDICE (no caso, 13). Dentro do loop, o valor de K é incrementado em 1 a cada iteração (K = K + 1) e esse valor é somado ao valor atual de SOMA (SOMA = SOMA + K). Ao final do loop, a variável SOMA conterá a soma dos valores de 1 a 13, que é igual a 91.

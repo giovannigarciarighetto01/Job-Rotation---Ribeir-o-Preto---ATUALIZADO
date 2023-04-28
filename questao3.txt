@@ -1,0 +1,11 @@
+a) O próximo elemento é 9, já que a lógica é adicionar 2 ao número anterior.
+
+b) O próximo elemento é 128, já que a lógica é multiplicar o número anterior por 2.
+
+c) O próximo elemento é 49, já que a lógica é adicionar o próximo número ímpar à sequência.
+
+d) O próximo elemento é 100, já que a lógica é adicionar 4 ao quadrado do número anterior.
+
+e) O próximo elemento é 13, já que a lógica é somar os dois números anteriores para obter o próximo número da sequência.
+
+f) O próximo elemento é 20, já que a lógica é adicionar 2 ao primeiro número, 2 ao segundo número, 4 ao terceiro número, 1 ao quarto número, 1 ao quinto número, e 1 ao sexto número.
